@@ -12,7 +12,7 @@ int main() {
                     {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
                     {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
 
-  writePalp(map, "HELLOWORLD");
+  writePalp(map, "HELLOWORLD"); //LOOOL
 
   char *tx = readPalp(map);
   printf("%s\n", tx); // Should print: ABCZ
